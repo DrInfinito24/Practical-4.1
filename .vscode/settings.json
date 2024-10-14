@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "mpie-p41-tank-controls.sln"
+    "dotnet.defaultSolution": "Practical-4.1.sln"
 }
